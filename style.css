@@ -1,0 +1,113 @@
+body {
+   margin-left: 60px;
+   padding: 40px;
+}
+
+h4{
+    margin-left: 1120px;
+    margin-bottom: 20px;
+    padding-top: 2%;
+}
+li {
+    display: inline
+}
+.header-container{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.img-tag{
+    position: absolute;
+}
+.ex2{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.dope-title{
+    width: 45%;
+    color: white;
+}
+.dope-title1{
+    width: 55%;
+    padding: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.REALITY {
+     position: absolute;
+     width: 400px;
+     height: auto;
+     border: 3px solid rgb(235, 227, 227);
+     padding: 20px;
+     margin-top: 320px;
+     margin-left: 200px;
+}
+.p-tag{
+    color:white;
+}
+.overlay{
+    margin-top: 20px;
+    width: 700px;
+    height: auto;
+    position: relative;
+}
+img{
+    position: absolute;
+}
+.ex1{
+    width: 600px;
+    height: 160px;
+    background-color: rgb(252, 250, 250);
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 640px;
+    padding: 20px;
+}
+.our-creations{
+    width: 100%;
+    height: 80px;
+    margin-top: 800px;
+    display: flex;
+}
+.our-title{
+    width: 70%;
+}
+.our-right{
+    width: 30%;
+    color: black;
+    text-decoration: none;
+    text-align: right;
+    padding: 20px;
+    font-size: 30px;
+}
+.Grid-container{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    gap: 20px;
+    padding: 30px;
+}
+.one{
+    background-color: brown;
+    width: 300px;
+    height: 400px;
+    position: relative;
+}
+.milky-img{
+    position: absolute;
+}
+.milky{
+    position: absolute;
+    color: white;
+    margin-top: 300px;
+    padding-left: 20px;
+}
